@@ -15,6 +15,9 @@ Using Unity and MLAgents, it is a simulation model created to make a vechicle (b
 
 -> Second Part was writing the code in C# and train the model using the RL. 
 
+# NOTE
+You can use the Bus.ONYX file to reuse the brain of the AI
+
 # Observations
 1) Dot Product of Active Parking Position and Bus
 2) Bus Position
