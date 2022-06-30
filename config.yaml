@@ -32,12 +32,6 @@ behaviors:
           memory: null
           goal_conditioning_type: hyper
           deterministic: false
-      gail:
-        strength: 0.0
-        demo_path: demos/Demo1738.demo
-    behavioral_cloning:
-      strength: 0.0
-      demo_path: demos/Demo1738.demo
     init_path: null
     keep_checkpoints: 5
     checkpoint_interval: 500000
